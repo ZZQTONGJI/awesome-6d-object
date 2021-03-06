@@ -1125,6 +1125,7 @@ Carsten Steger , Eric Brachmann , Bertram Drost, Juil Sock_ [\[Slide\]](http://c
 #### • [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li) and [Jiajun Wu](https://jiajunwu.com/), [STANFORD VISION AND LEARNING LAB](http://svl.stanford.edu/), Stanford University.
 #### • [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/), Stanford University.
 #### • [Shuran Song](https://www.cs.columbia.edu/~shurans/), Columbia University.
+#### • [TOMÁŠ HODAŇ](https://cmp.felk.cvut.cz/~hodanto2/), [Facebook Reality Labs](https://about.fb.com/realitylabs/).
 
 
 
@@ -1138,6 +1139,7 @@ Carsten Steger , Eric Brachmann , Bertram Drost, Juil Sock_ [\[Slide\]](http://c
 #### • [Renaud MARLET](http://imagine.enpc.fr/~marletr/) and [Mathieu Aubry](http://imagine.enpc.fr/~aubrym/), [Research Group in Computer Vision, Machine Learning and Optimization](https://imagine-lab.enpc.fr/), École des Ponts ParisTech (ENPC).
 #### • [Eric Brachmann](https://hci.iwr.uni-heidelberg.de/vislearn/people/eric-brachmann/), [Visual Learning Lab](https://hci.iwr.uni-heidelberg.de/vislearn/), Heidelberg University.
 #### • [Matthias Nießner](https://niessnerlab.org/members/matthias_niessner/profile.html), [Federico Tombari](http://campar.in.tum.de/Main/FedericoTombari) and [Bertram Drost](http://campar.in.tum.de/Main/BertramDrost), TU Munich (TUM).
+#### • [Jiri MATAS](https://cmp.felk.cvut.cz/~matas/), Czech Technical University, Prague.
 
 
 ### Asia
@@ -1145,12 +1147,12 @@ Carsten Steger , Eric Brachmann , Bertram Drost, Juil Sock_ [\[Slide\]](http://c
 #### • [Gim Hee Lee](https://www.researchgate.net/profile/Gim_Lee), [CVRP LAB](https://www.comp.nus.edu.sg/~leegh/#), National University of Singapore (NUS).
 #### • [Yue Wang](https://ywang-zju.github.io/), [His Youtube Channel](https://www.youtube.com/channel/UCkGsUj95tueXDxf5JEhiYZQ), Zhejiang University (ZJU).
 #### • [Xiaoou Tang](http://www.ie.cuhk.edu.hk/people/xotang.shtml), [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/) and [Dahua Lin](http://dahua.me/), [Multimedia Laboratory](http://mmlab.ie.cuhk.edu.hk/index.html), The Chinese University of Hong Kong (CUHK).
-#### • [Xiangyang Ji](http://www.au.tsinghua.edu.cn/info/1166/2066.htm), Tsinghua University.
-#### • [Xiaowei Zhou](http://www.cad.zju.edu.cn/home/xzhou/), Zhejiang University.
+#### • [Xiangyang Ji](http://www.au.tsinghua.edu.cn/info/1166/2066.htm), Tsinghua University (THU).
+#### • [Xiaowei Zhou](http://www.cad.zju.edu.cn/home/xzhou/), Zhejiang University (ZJU).
 
 
 ### Australia
 #### • [Hongdong Li](http://users.cecs.anu.edu.au/~hongdong/), [Australia ARC Centre of Excellence for Robotic Vision](http://roboticvision.org/), The Australian National University (ANU).
-#### • [Yi Yang](https://scholar.google.co.uk/citations?hl=zh-CN&user=RMSuNFwAAAAJ), [ReLER Lab](http://reler.net/), University of Technology Sydney (UTS).
+#### • [Yi Yang](https://scholar.google.co.uk/citations?hl=zh-CN&user=RMSuNFwAAAAJ), [Xin Yu](https://sites.google.com/view/xinyus-homepage/Home), [ReLER Lab](http://reler.net/), University of Technology Sydney (UTS).
 
 [\[back to top\]](#contents)
